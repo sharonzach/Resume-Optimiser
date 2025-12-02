@@ -41,7 +41,7 @@ A beautiful, intelligent, and fully automated Resume Optimization system powered
 2.  **Configure API Key**:
     Create a `.env` file in `backend/.env`:
     ```env
-    GOOGLE_API_KEY=AIzaSyCVmGCtE3rrVYQK5xH098SQtkhQYBWM264
+    GOOGLE_API_KEY=YOUR_API_KEY
     ```
 
 3.  **Start the Server**:
@@ -111,3 +111,4 @@ resume_optimizer/
 
 ---
 *Built with ❤️ using Google Gemini*
+
